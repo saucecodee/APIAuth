@@ -1,7 +1,7 @@
 # AuthUserAPI
 An API that registers and authenticates user using bcriptjs
 
-======================================
+
 User routes
 ======================================
 
